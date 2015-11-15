@@ -2,7 +2,7 @@
 
 ## 3 Simple Steps
 
-* Create a Package.json file using npm init
+* Create a package.json file using npm init
 ```bash
 npm init 
 ```
@@ -10,4 +10,7 @@ npm init
 ```bash
 npm install --save express
 ```
-* Copy/paste the server.js file located here and run "node server" to get your app started!
+* Copy/paste the server.js file located here and start your app
+```bash
+node server
+```
